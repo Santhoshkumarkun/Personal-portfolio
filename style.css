@@ -474,8 +474,8 @@ nav #menu-icon{
     }
     #about{
         padding: 0px;
-        margin-left: 50px;
-        margin-right: 20px;
+        margin-left: 10%;
+        margin-right: 10%;
         flex-direction: column;
     }
     #about h1{
@@ -513,6 +513,7 @@ nav #menu-icon{
     }
     #contact{
         flex-direction: column;
+        margin-left: 12%;
     }
     #contact h1{
         font-size: 40px;
@@ -522,7 +523,7 @@ nav #menu-icon{
     }
     .left-contact, .right-contact{
         flex-basis: 100%;
-        margin-left: -100px;
+        
     }
     .left-contact{
         margin-bottom: 60px;
